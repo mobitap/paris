@@ -1,6 +1,6 @@
 <?php
 
-    namespace Mobitap;
+    namespace mobitap\paris;
 
    /**
     *
